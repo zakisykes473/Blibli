@@ -1,0 +1,4 @@
+selenium==4.15.2
+   python-dotenv==1.0.0
+   python-telegram-bot==20.5
+   schedule==1.2.0
